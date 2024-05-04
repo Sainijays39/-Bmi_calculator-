@@ -1,0 +1,133 @@
+body {
+
+    background: url(bmi.jpg) no-repeat center center fixed;
+   -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size:cover;
+
+    background-size: cover;
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+
+  
+  .container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  .input-container {
+    margin-bottom: 10px;
+    text-align: left;
+  }
+  
+  input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+  
+  button {
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #result {
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  #result:hover{
+    box-shadow: 0 0 20px black, 0 0 40px black;
+  }
+  body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .socialicons{
+    display: flex;
+    justify-content:last baseline;
+  }
+  .socialicons a{
+    font-size: 25px;
+    text-decoration: none;
+    padding: 20px;
+    background-color: white;
+    margin: 15px;
+    border-radius: 50%;
+   
+    position: relative ;
+    left: 10%;
+    margin-top: 18%;
+     
+  
+  }
+  .socialicons a i{
+    
+    color: black;
+    opacity: 0.9;
+  }
+  
+  .socialicons a:hover {
+         color: rgb(87, 87, 241);
+         transition: 0.5s;      
+  }
+  h1 {
+    color: #333;
+  }
+  
+  .input-container {
+    margin-bottom: 10px;
+    text-align: left;
+  }
+  
+  input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+  
+  button {
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #result {
+    margin-top: 20px;
+    font-weight: bold;
+  }
